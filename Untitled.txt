@@ -1,0 +1,15 @@
+$ apt update
+$ apt upgrade
+$ pkg install python
+$ pkg install python2
+$ pkg install curl
+$ pkg install wc
+$ pkg install python2-dev
+$ pkg install prov
+$ pkg install php
+$ pkg install git
+$ git clone https://github.com/Rusmana-ID/rus
+$ Is
+$ cd rus
+$ Is
+$ sh v2.sh
